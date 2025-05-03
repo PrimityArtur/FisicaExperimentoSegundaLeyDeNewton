@@ -1,0 +1,11 @@
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de entorno virtual
+venv/
+env/
+
+# Archivos de PyCharm
+.idea/
